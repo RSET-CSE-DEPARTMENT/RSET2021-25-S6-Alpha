@@ -4,7 +4,4 @@ Insomnia is a VR Horror created using Unity Engine's editor with enhancements fr
 
 Default programming language used with Unity Engine is C#.
 
-Contents of folder:
-Project Report
-Game Scripts
-XR Device Simulator Scripts
+For More information,read Project Report
